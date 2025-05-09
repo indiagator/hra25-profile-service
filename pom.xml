@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.egov</groupId>
-    <artifactId>social-service</artifactId>
+    <artifactId>profile-service</artifactId>
     <version>dev-1</version>
-    <name>social-service</name>
-    <description>social-service</description>
+    <name>profile-service</name>
+    <description>profile-service</description>
     <url/>
     <licenses>
         <license/>
@@ -79,7 +79,6 @@
             <version>1.18.34</version>
             <scope>provided</scope>
         </dependency>
-
         <dependency>
             <groupId>redis.clients</groupId>
             <artifactId>jedis</artifactId>

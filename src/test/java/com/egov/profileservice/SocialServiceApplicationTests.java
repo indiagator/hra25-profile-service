@@ -1,6 +1,5 @@
-package com.egov.socialservice;
+package com.egov.profileservice;
 
-import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
